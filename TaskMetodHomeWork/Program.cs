@@ -90,6 +90,7 @@ namespace TaskMetodHomeWork
                 if (str[i] == 'a')
                 {
                     hasWantedA = true;
+                    break;
                 }
             }
             if (hasWantedA==true)
